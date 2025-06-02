@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "95d93fe2-404f-4685-bfe7-9b8c84391291",
+    "name": "Brittany Rau",
+    "phone": "850.418.1903",
+    "email": "Joy78@hotmail.com",
+    "job": "Forward Data Specialist"
+  },
+  {
+    "id": "737f6dc4-d95b-4bd4-b270-5c2c73843121",
+    "name": "Willie Emard",
+    "phone": "(995) 599-8939 x18037",
+    "email": "Juvenal_Lang@yahoo.com",
+    "job": "District Markets Executive"
+  }
+]
